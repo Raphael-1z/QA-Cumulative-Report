@@ -37,7 +37,7 @@ The sheet has been applied in a fintech collections call center with 30+ agents 
 Related: QA Metrics for Call Centers — https://github.com/Raphael-1z/QA-METRIC-FOR-CALL-CENTERS
 
 Download QA_Cumulative.xlsx:
-https://github.com/Raphael-1z/QA-Cumulative-Report/raw/main/QA_Cumulative.xlsx
+https://github.com/Raphael-1z/QA-Cumulative-Report/raw/main/QA_Cummulative.xlsx
 
 License
 This project is licensed under the MIT License, allowing others to use and adapt it freely.
